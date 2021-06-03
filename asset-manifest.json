@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Props-Checkpoint/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-Props-Checkpoint/static/js/main.350afe39.chunk.js",
+    "main.js.map": "/React-Props-Checkpoint/static/js/main.350afe39.chunk.js.map",
+    "runtime-main.js": "/React-Props-Checkpoint/static/js/runtime-main.d44a6470.js",
+    "runtime-main.js.map": "/React-Props-Checkpoint/static/js/runtime-main.d44a6470.js.map",
+    "static/js/2.d4bcd52e.chunk.js": "/React-Props-Checkpoint/static/js/2.d4bcd52e.chunk.js",
+    "static/js/2.d4bcd52e.chunk.js.map": "/React-Props-Checkpoint/static/js/2.d4bcd52e.chunk.js.map",
+    "static/js/3.7488d3eb.chunk.js": "/React-Props-Checkpoint/static/js/3.7488d3eb.chunk.js",
+    "static/js/3.7488d3eb.chunk.js.map": "/React-Props-Checkpoint/static/js/3.7488d3eb.chunk.js.map",
+    "index.html": "/React-Props-Checkpoint/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-Props-Checkpoint/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d4bcd52e.chunk.js.LICENSE.txt": "/React-Props-Checkpoint/static/js/2.d4bcd52e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d44a6470.js",
+    "static/js/2.d4bcd52e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.350afe39.chunk.js"
+  ]
+}
