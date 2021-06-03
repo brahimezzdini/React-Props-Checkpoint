@@ -33,7 +33,7 @@ function App() {
           <div style={Container}>
             <h1 style={H1}> React Props Checkpoint</h1>
             <Profile fullName='Brahim Ezzdini' bio='@ibra007'  profession='ingenieur' >
-              <img style={imgStyle} src={"../img.png"} alt=""/>
+              <img style={imgStyle} src={"./img.png"} alt=""/>
             </Profile>
       
             <a style={Link} href="https://github.com/brahimezzdini/React-Props-Checkpoint.git" >  Voir Code source  </a>
